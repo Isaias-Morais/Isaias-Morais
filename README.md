@@ -34,7 +34,7 @@ Tenho uma mentalidade de evolução constante: estudo, pratico e busco sempre me
 
 ### 🎯 Objetivo profissional
 Entrar na área de tecnologia como Desenvolvedor Python / Backend  
-e construir uma carreira sólida, trabalhando remoto e evoluindo constantemente.
+e construir uma carreira sólida, trabalhando evoluindo constantemente.
 
 ---
 
