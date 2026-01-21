@@ -6,19 +6,11 @@
 
 ---
 
-### ✨ Sobre mim
-Sou apaixonado por tecnologia, programação e por construir soluções que facilitam a vida das pessoas.  
-Tenho uma mentalidade de evolução constante: estudo, pratico e busco sempre melhorar 1% todos os dias.
-
----
-
 ### 🧠 Atualmente estudando:
-- Python (intermediário → avançado)
-- Orientação a Objetos
-- Estruturas de Dados
-- Lógica e resolução de problemas
-- Git e GitHub
-- Fundamentos de Backend
+- PostgreSQL
+- Psycopg
+- SQLAlchemy
+- Estruturação de projetos Backend
 
 ---
 
@@ -29,6 +21,7 @@ Tenho uma mentalidade de evolução constante: estudo, pratico e busco sempre me
 - Lógica de Programação
 - Resolução de problemas
 - Organização e boas práticas de código
+- SQLite / PostgreSQL (em evolução)
 
 ---
 
@@ -49,10 +42,7 @@ Sempre aberto para trocar ideias, aprender mais e evoluir!
 ---
 
 ## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
-
-## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" />
 
 # Contatos:
 <div>
