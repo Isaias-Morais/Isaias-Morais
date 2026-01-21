@@ -28,8 +28,9 @@ e construir uma carreira sólida, trabalhando evoluindo constantemente.
 ---
 
 ### 📂 Meus Projetos
-Fique à vontade para explorar meus repositórios e acompanhar minha evolução:  
-
+📦 App Motoboy
+Sistema em Python para controle de ganhos, km rodados e custos.
+Tecnologias: Python • POO • SQLite/PostgreSQL
 ---
 
 ### 🤝 Vamos conectar?
