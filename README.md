@@ -17,8 +17,6 @@
 - Git e GitHub
 - Programação Orientada a Objetos
 - Lógica de Programação
-- Resolução de problemas
-- Organização e boas práticas de código
 - SQLite / PostgreSQL (em evolução)
 
 ---
