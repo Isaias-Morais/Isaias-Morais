@@ -1,15 +1,15 @@
 
 ## 👋 Olá! Eu sou o Isaias Morais
 
-💻 Desenvolvedor Python em formação | Backend Projetos práticos com foco em lógica, POO e banco de dados. 
+💻 Desenvolvedor Python em formação | Backend Projetos práticos com foco em lógica, POO e banco de dados e API. 
 ---
 
 ### 🧠 Atualmente estudando:
-- PostgreSQL
-- Psycopg
-- SQLAlchemy
-- Estruturação de projetos Backend
 
+- PostgreSQL
+- SQLAlchemy
+- FastApi
+  
 ---
 
 ### 🛠️ Minhas principais habilidades:
@@ -24,6 +24,7 @@
 ---
 
 ### 🎯 Objetivo profissional
+
 Entrar na área de tecnologia como Desenvolvedor Python / Backend  
 e construir uma carreira sólida, trabalhando evoluindo constantemente.
 
@@ -33,6 +34,10 @@ e construir uma carreira sólida, trabalhando evoluindo constantemente.
 📦 App Motoboy
 Sistema em Python para controle de ganhos, km rodados e custos.
 Tecnologias: Python • POO • SQLite/PostgreSQL
+
+🛵 Mini API Motoboy  
+API em Python para gerenciamento de pedidos e entregas com controle de status e motoboys.  
+Tecnologias: Python • FastAPI • SQLAlchemy • SQLite
 
 
 ---
