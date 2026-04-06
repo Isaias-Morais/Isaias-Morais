@@ -17,7 +17,9 @@
 - Git e GitHub
 - Programação Orientada a Objetos
 - Lógica de Programação
-- SQLite / PostgreSQL (em evolução)
+- SQLite / PostgreSQL
+- SqlAlchemy
+- FastApi
 
 ---
 
@@ -31,6 +33,8 @@ e construir uma carreira sólida, trabalhando evoluindo constantemente.
 📦 App Motoboy
 Sistema em Python para controle de ganhos, km rodados e custos.
 Tecnologias: Python • POO • SQLite/PostgreSQL
+
+
 ---
 
 ### 🤝 Vamos conectar?
