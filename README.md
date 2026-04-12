@@ -1,7 +1,7 @@
 
 ## 👋 Olá! Eu sou o Isaias Morais
 
-💻 Desenvolvedor Python em formação | Backend Projetos práticos com foco em lógica, POO e banco de dados e API. 
+💻 Desenvolvedor Python | Backend Projetos práticos com foco em lógica, POO e banco de dados e API. 
 ---
 
 ### 🧠 Atualmente estudando:
