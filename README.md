@@ -1,60 +1,40 @@
+# Olá! Eu sou Isaias Morais 👋
 
-## 👋 Olá! Eu sou o Isaias Morais
+Desenvolvedor em formação com foco em **Backend Python**. Gosto de transformar problemas do dia a dia em projetos práticos, construindo APIs, trabalhando com bancos de dados e evoluindo a organização do código.
 
-💻 Desenvolvedor Python | Backend Projetos práticos com foco em lógica, POO e banco de dados e API. 
----
+Atualmente curso Engenharia de Software e busco uma oportunidade de **estágio ou posição júnior em desenvolvimento backend**.
 
-### 🧠 Atualmente estudando:
+## 🚀 Projetos em destaque
 
-- PostgreSQL
-- SQLAlchemy
-- FastApi
-  
----
+### [ATLAS — Assistente pessoal](https://github.com/Isaias-Morais/ATLAS0.1)
+Projeto em desenvolvimento de um assistente pessoal com interface web e backend em Python. A proposta é interpretar comandos de texto e voz e encaminhá-los para funcionalidades específicas.
 
-### 🛠️ Minhas principais habilidades:
-- Python
-- Git e GitHub
-- Programação Orientada a Objetos
-- Lógica de Programação
-- SQLite / PostgreSQL
-- SqlAlchemy
-- FastApi
+**Tecnologias:** Python, FastAPI, Pydantic, SQLAlchemy, PostgreSQL, HTML, CSS e JavaScript.
 
----
+### [App Motoboy V2.1](https://github.com/Isaias-Morais/app_motoboyv2.1)
+Sistema para apoiar motoboys no controle da operação e das finanças: ganhos, quilometragem, abastecimentos, manutenções, custos e lucro líquido.
 
-### 🎯 Objetivo profissional
+**Tecnologias:** Python, FastAPI, SQLAlchemy, PostgreSQL, Pydantic, JWT, HTML, CSS e JavaScript.
 
-Entrar na área de tecnologia como Desenvolvedor Python / Backend  
-e construir uma carreira sólida, trabalhando evoluindo constantemente.
+## 🧰 Tecnologias e ferramentas
 
----
+- **Backend:** Python, FastAPI, SQLAlchemy, Pydantic
+- **Banco de dados:** PostgreSQL, SQLite, SQL
+- **Frontend:** HTML, CSS, JavaScript
+- **Ferramentas:** Git, GitHub, PyCharm
 
-### 📂 Meus Projetos
-📦 App Motoboy
-Sistema em Python para controle de ganhos, km rodados e custos.
-Tecnologias: Python • POO • SQLite/PostgreSQL
+## 📚 Atualmente estudando
 
-🛵 Mini API Motoboy  
-API em Python para gerenciamento de pedidos e entregas com controle de status e motoboys.  
-Tecnologias: Python • FastAPI • SQLAlchemy • SQLite
+- Desenvolvimento de APIs REST com FastAPI
+- Modelagem e persistência de dados
+- JavaScript, HTML e CSS
+- Boas práticas de organização e arquitetura de software
 
+## 🎯 Objetivo
 
----
+Conquistar minha primeira oportunidade profissional em tecnologia, contribuir com projetos reais e continuar evoluindo como desenvolvedor backend.
 
-### 🤝 Vamos conectar?
-Sempre aberto para trocar ideias, aprender mais e evoluir!
+## 🤝 Contato
 
----
-
-## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" width="40" height="40" />          
-          
-
-# Contatos:
-<div>
-<a href="https://instagram.com/morais_06_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/isaias-morais-058914305" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-          
+- [LinkedIn](https://www.linkedin.com/in/isaias-morais-058914305)
+- [Instagram](https://instagram.com/morais_06_)
